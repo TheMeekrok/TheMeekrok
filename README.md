@@ -14,10 +14,10 @@ engineering
 **Tools**: PostgreSQL, Docker, Linux, Git, NPM, GitHub Actions, GitHub Packages, Webpack, TailwindCSS
 
 ## Projects
-1. **ajax people**:
-   A meeting service, the purpose of which is to connect people with each other by choosing common interests and publishing posts
-   Repository: ![https://github.com/TheMeekrok/ajax-people-frontend](https://github.com/TheMeekrok/ajax-people-frontend)
-   Link: ![https://ajax-people.netlify.app](https://ajax-people.netlify.app)
+1. **ajax people**: \
+   A meeting service, the purpose of which is to connect people with each other by choosing common interests and publishing posts \
+   Repository: [https://github.com/TheMeekrok/ajax-people-frontend](https://github.com/TheMeekrok/ajax-people-frontend) \
+   Link: [https://ajax-people.netlify.app](https://ajax-people.netlify.app)
 2. **streamlit-imdb-movies**
    A Streamlit dashboard based on imdb-movies dataset from Kaggle
    Repository: ![https://kurpas-imdb-movies.streamlit.app/analisys](https://kurpas-imdb-movies.streamlit.app/analisys)
